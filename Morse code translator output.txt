@@ -1,0 +1,39 @@
+OUTPUT:
+Choose any of the following: 
+ 1. Already have an existing account
+ 2. Create a new account
+
+1
+enter your account id:aishwarya
+enter password:10000
+Choose an option (1 for text to Morse, 2 for Morse to text, 3 to exit): 1
+Enter the text to convert to Morse code: hello world
+Morse code:  .... . .-.. .-.. ---   .-- --- .-. .-.. -.. 
+Choose an option (1 for text to Morse, 2 for Morse to text, 3 to exit): 3
+Exiting program.
+
+
+Choose any of the following: 
+ 1. Already have an existing account
+ 2. Create a new account
+
+2
+enter account id:chaitra
+enter a 5 digit password:
+enter password:23452
+your account is created
+Choose an option (1 for text to Morse, 2 for Morse to text, 3 to exit): 2
+Enter the Morse code to convert to text:  .... . .-.. .-.. ---   .-- --- .-. .-.. -.. 
+Text:  HELLOWORLD
+Choose an option (1 for text to Morse, 2 for Morse to text, 3 to exit): 3
+Exiting program.
+
+
+
+REFERENCES:
+•	Explained morse code
+https://www.youtube.com/watch?v=WZ256UU8xJ0
+•	POW Admiral Jeremiah Denton to convey a message “TORTURE” in morse code to alert the world that he was being tortured.
+https://www.youtube.com/watch?v=rufnWLVQcKg
+•	Morse code in a series called “Quantico” 
+https://www.youtube.com/watch?v=jAkkVVJDpDk
